@@ -1,0 +1,23 @@
+{
+  "name": "inbox-ethereum-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urgentlion/Inbox-ethereum-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urgentlion/Inbox-ethereum-app/issues"
+  },
+  "homepage": "https://github.com/urgentlion/Inbox-ethereum-app#readme",
+  "dependencies": {
+    "solc": "^0.4.19"
+  }
+}
